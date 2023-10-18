@@ -1,2 +1,3 @@
 # Redux-Toolkit-explain
-hi !its me hassan khaleel ,learning MERN dev for 8months. so in this repo that how much i learnt  i have added all thing that beginner showul understand about Redux toolkit .
+hi ! it's me hassan khaleel ,i have been  learning MERN dev for 8 months. so in this repo i have added all thing that i have learn so  a beginner can  understand about the Redux toolkit through my repo  .
+#someOne who wanna help me .I always welcome .
